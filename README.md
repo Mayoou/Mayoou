@@ -1,4 +1,4 @@
-👋 Welcome to Thomas's GitHub Profile, a back-end rookie developer !
+👋 Welcome to Thomas's GitHub Profile aka. @Mayoou , a back-end rookie developer !
 
 ----------------------------------------
 
@@ -8,15 +8,28 @@
 
 🌟 My hard skills :
 
-  -> Ruby & Ruby on Rails ❤️                   -> Deployment Heroku
-  -> Javascript (Stimulus)                     -> Github & Teamworking
-  -> HTML5                                     -> PostgreSQL
-  -> CSS3 (& SCSS)                             -> Bootsrap 💩
-  -> Command-Line Interface on Ubuntu
+Ruby & Ruby on Rails ❤️
+
+Javascript (Stimulus)
+
+HTML5
+
+CSS3 (& SCSS)
+
+Command-Line Interface on Ubuntu
+
+Deployment Heroku
+
+Github & Teamworking
+
+PostgreSQL
+
+Bootstrap 💩
   
 ----------------------------------------
 
 🖋️ Contact Me :
 
 LinkedIn - https://www.linkedin.com/in/thomas-laugier-374b0a236/
+
 Ruby on Rails Jobs - https://www.ruby-on-rails-jobs.com/developers/ruby-on-rails-rookie
