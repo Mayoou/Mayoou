@@ -10,7 +10,7 @@
 
 Ruby & Ruby on Rails ❤️
 
-Javascript (Stimulus)
+Javascript (& Stimulus)
 
 HTML5
 
