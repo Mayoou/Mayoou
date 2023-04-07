@@ -2,7 +2,8 @@
 
 ----------------------------------------
 
-🚀 Currently in full professional conversion in this beautiful year 2022! I decided to follow the bootcamp of Wagon Marseille 🚂, to make a first step in the fabulous Dev' domain and thus launch the career I have always dreamed of! Passionate since always about tech, today I decided to cross the threshold and make it my job.
+🚀 Following a professional retraining and after obtaining my license of "Developer - Full-stack web applications" within Le Wagon Marseille, I was able to acquire the working methodologies and the basics of the business. Anxious to learn more, I am integrating for the next two years the MScPro of Epitech Marseille.
+So I am looking for an alternation in web development and/or DevOps that I could start during the month of August 2023. 
 
 ----------------------------------------
 
